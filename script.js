@@ -1,7 +1,7 @@
 const randomMessages = [
-    "Hello!", "How are you?", "What's up?", "Nice to meet you!", 
-    "Good morning!", "Good night!", "What's your plan for today?",
-    "Let's catch up later.", "I'm busy right now.", "See you soon!"
+    "Salom", "Nma gap", "Tinch mi?", "Qata siz", 
+    "Nma qvos", "mayli", "bobti",
+    "Hmm", "yo", "hop boladi"
 ];
 
 const msgContainer = document.querySelector('.msg_container');
